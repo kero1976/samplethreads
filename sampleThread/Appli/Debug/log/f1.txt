@@ -1,0 +1,10 @@
+2022-06-05 20:26:36.3674 [DEBUG] PID[33820] SID[    1] ConsoleApp2.Program.Main - START!! 
+2022-06-05 20:26:36.3684 [DEBUG] PID[29096] SID[    1] ConsoleApp2.Program.Main - START!! 
+2022-06-05 20:26:36.3664 [DEBUG] PID[ 6128] SID[    1] ConsoleApp2.Program.Main - START!! 
+2022-06-05 20:26:36.3684 [DEBUG] PID[29096] SID[    1] ConsoleApp2.Program.Main - seed:1693248129 
+2022-06-05 20:26:36.3764 [DEBUG] PID[33820] SID[    1] ConsoleApp2.Program.Main - seed:1693252853 
+2022-06-05 20:26:36.3754 [DEBUG] PID[ 6128] SID[    1] ConsoleApp2.Program.Main - seed:1693225161 
+2022-06-05 20:26:50.3835 [DEBUG] PID[33820] SID[    1] ConsoleApp2.Program.Main - Sleep:14, Return:44 
+2022-06-05 20:26:50.3835 [DEBUG] PID[ 6128] SID[    1] ConsoleApp2.Program.Main - Sleep:14, Return:211 
+2022-06-05 20:26:50.3835 [DEBUG] PID[33820] SID[    1] ConsoleApp2.Program.Main - END!! 
+2022-06-05 20:26:50.3835 [DEBUG] PID[ 6128] SID[    1] ConsoleApp2.Program.Main - END!! 
